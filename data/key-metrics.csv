@@ -1,0 +1,137 @@
+metric,category,value,unit,period,source,tag
+Organised co-living penetration,PG market,5,percent,2025,Colliers India (8 May 2025),VERIFIED
+Co-living bed demand,PG market,6600000,beds,2025,Colliers India,VERIFIED
+Organised co-living stock,PG market,300000,beds,2025,Colliers India,VERIFIED
+Co-living bed demand,PG market,9100000,beds,2030 forecast,Colliers India,VERIFIED
+Organised co-living stock,PG market,1000000,beds,2030 forecast,Colliers India,VERIFIED
+India co-living market size,PG market,40,billion INR,2025,Colliers India,VERIFIED
+India co-living market size,PG market,206,billion INR,2030 forecast,Colliers India,VERIFIED
+Capital inflows since 2015,PG market,1,billion USD,2015-2025,Colliers India,VERIFIED
+Co-living investment yield,PG market,10,percent,2025,Colliers India,VERIFIED
+Traditional rental yield,PG market,2-5,percent,2025,Colliers India,VERIFIED
+Student housing demand,PG market,12000000,beds,2025,Colliers India / AISHE,VERIFIED
+Campus accommodation capacity,PG market,4000000,beds,2025,AISHE FY2021-22 via Colliers,VERIFIED
+Student housing gap,PG market,8000000,beds,2025,Colliers India,VERIFIED
+India higher education enrolment,PG market,43300000,students,2025,AISHE via Colliers,VERIFIED
+India gross enrolment ratio,PG market,28.4,percent,2025,AISHE via Colliers,VERIFIED
+Urban migrants aged 20-34,PG market,50000000,people,2025,Colliers India,VERIFIED
+Hyderabad organised co-living beds,Hyderabad PG,35000,beds,2025,Everything Coliving,ESTIMATE
+Hyderabad co-living rent (single occupancy),Hyderabad PG,10500-17300,INR per month,Apr 2025,Colliers India,VERIFIED
+Hyderabad 1BHK rent,Hyderabad PG,14000-26500,INR per month,Apr 2025,Colliers India,VERIFIED
+Hyderabad co-living cost advantage,Hyderabad PG,25-35,percent,Apr 2025,Colliers India,VERIFIED
+Hyderabad co-living rent band,Hyderabad PG,8000-16000,INR per month,2026,Everything Coliving,ESTIMATE
+Madhapur PG double sharing,Hyderabad PG,15000,INR per month,2023,Telangana Today (29 Aug 2023),VERIFIED
+Kondapur PG triple sharing,Hyderabad PG,13000,INR per month,2023,Telangana Today,VERIFIED
+Kondapur PG twin sharing,Hyderabad PG,18000,INR per month,2023,Telangana Today,VERIFIED
+Kondapur PG single AC,Hyderabad PG,30000,INR per month,2023,Telangana Today,VERIFIED
+Ameerpet triple sharing rent increase,Hyderabad PG,25-30,percent,2023,Telangana Today,VERIFIED
+Observed PG deposit range,Hyderabad PG,2000-17000,INR,Sep 2026,NoBroker listings,VERIFIED
+Observed deposit to rent ratio,Hyderabad PG,0.29-2.00,ratio,Sep 2026,NoBroker listings,VERIFIED
+MagicBricks Hyderabad PG listings,Platform inventory,1436,listings,2026,MagicBricks,SNIPPET
+99acres Hyderabad PG listings,Platform inventory,284,listings,2026,99acres,SNIPPET
+PGClub Hyderabad PG listings,Platform inventory,170,listings,2026,PGClub,SNIPPET
+Women hostels audited,Regulatory,447,hostels,Jul 2026,NewsMeter Project Safe Stay,VERIFIED
+Hostels with trade licence,Compliance,44,percent,Jul 2026,Hyderabad Stories,VERIFIED
+Hostels scoring below 40/100,Compliance,62,percent,Jul 2026,Hyderabad Stories,VERIFIED
+Hostels with fire exit plan,Compliance,0,percent,Jul 2026,NewsMeter Project Safe Stay,VERIFIED
+Hostels with fire safety equipment,Compliance,38.9,percent,Jul 2026,NewsMeter,VERIFIED
+Hostels with compound walls,Compliance,43,percent,Jul 2026,NewsMeter,VERIFIED
+Hostels with CCTV,Compliance,97.5,percent,Jul 2026,NewsMeter,VERIFIED
+CCTV non-functional,Compliance,30,percent,Jul 2026,Hyderabad Stories,VERIFIED
+Hostels inspected by GHMC STF,Regulatory,58,hostels,May 2025,NewsMeter GHMC STF,VERIFIED
+GHMC notices issued,Regulatory,30,notices,May 2025,NewsMeter,VERIFIED
+GHMC kitchens sealed,Regulatory,5,kitchens,May 2025,NewsMeter,VERIFIED
+GHMC penalties levied,Regulatory,245500,INR,May 2025,NewsMeter,VERIFIED
+GST exemption threshold,Regulation,20000,INR per person per month,Jul 2024,GST Entry 12AA via TaxGuru,VERIFIED
+GST exemption stay requirement,Regulation,90,days,Jul 2024,GST Entry 12AA,VERIFIED
+GST rate on PG above threshold,Regulation,12,percent,Jul 2022,SAC 9963 via TaxGuru,VERIFIED
+Stamp duty on rent agreement,Regulation,0.5,percent of annual rent,Sep 2025,MagicBricks,VERIFIED
+Rent agreement registration fee,Regulation,0.2,percent of annual rent,Sep 2025,MagicBricks,VERIFIED
+Telangana IT exports,Telangana economy,313000,crore INR,FY2024-25,Deccan Herald (21 Mar 2026),VERIFIED
+Telangana IT export growth,Telangana economy,16.6,percent,FY2024-25,Deccan Herald,VERIFIED
+Direct IT employment,Hyderabad economy,939000,jobs,Mar 2025,Deccan Herald / Hyderabad Mail,VERIFIED
+IT employment alternate figure,Hyderabad economy,1020000,jobs,end-2025,Hyderabad Mail (22 May 2026),VERIFIED-CONFLICT
+IT/ITES companies,Hyderabad economy,1500,companies,2026,Deccan Herald,VERIFIED
+GCCs in Hyderabad,Hyderabad economy,400,companies,2026,Deccan Herald,VERIFIED
+GCC employment,Hyderabad economy,300000,jobs,2026,Deccan Herald,VERIFIED
+Hyderabad share of India GCCs,Hyderabad economy,20,percent,2026,Deccan Herald,VERIFIED
+Services share of state GSVA,Telangana economy,68.6,percent,2025-26,Deccan Herald,VERIFIED
+Hyderabad office rent discount,Telangana economy,25-30,percent below Bengaluru,May 2026,Hyderabad Mail,VERIFIED
+Migrant share of city population,Demographics,67,percent,2021,Springer,SNIPPET
+Telangana domestic arrivals,State tourism,58.4,million,2023,New Indian Express (3 Sep 2026),VERIFIED
+Telangana domestic arrivals,State tourism,88.2,million,2024,New Indian Express,VERIFIED
+Telangana domestic arrivals,State tourism,84.8,million,2025,New Indian Express,VERIFIED
+Telangana domestic arrivals,State tourism,77.1,million,Jan-Aug 2026,New Indian Express,VERIFIED
+Domestic arrival change 2024-2025,State tourism,-3.9,percent,2024-2025,derived from NIE,VERIFIED
+Telangana foreign arrivals,State tourism,160000,tourists,2023,New Indian Express,VERIFIED
+Telangana foreign arrivals,State tourism,155000,tourists,2024,New Indian Express,VERIFIED
+Telangana foreign arrivals,State tourism,171000,tourists,2025,New Indian Express,VERIFIED
+Foreign tourists visiting Hyderabad,State tourism,98.9,percent,Jan-Nov 2025,The Hans India (4 Dec 2025),VERIFIED
+Foreign tourist target 2030,State tourism,500000,tourists,2030 target,Telangana Tourism Policy 2025-2030,VERIFIED
+Tourism investment target,State tourism,15000,crore INR,2025-2030,Telangana Tourism Policy,VERIFIED
+Tourism investment proposals received,State tourism,22324,crore INR,Sep 2026,New Indian Express,VERIFIED
+Tourism jobs target,State tourism,300000,jobs,2025-2030,Telangana Tourism Policy,VERIFIED
+Tourism projects completed,State tourism,78,projects,2025,New Indian Express,VERIFIED
+Tourism projects in progress,State tourism,45,projects,2026,New Indian Express,VERIFIED
+Tourism budget allocation,State tourism,1224,crore INR,2026-27,The Hindu / Financial Express,SNIPPET
+Telangana total state budget,State tourism,324000,crore INR,2026-27,The Hindu BusinessLine,SNIPPET
+Tourism share of state spending,State tourism,0.38,percent,2026-27,derived,VERIFIED
+Special Tourism Areas,State tourism,27,areas,2025,Telangana Tourism Policy,VERIFIED
+Tourism clusters,State tourism,6,clusters,2025,Telangana Tourism Policy,VERIFIED
+RGIA passengers,Airport,25.04,million,FY2024,BizzBuzz GMR data,VERIFIED
+RGIA passengers,Airport,29.16,million,FY2025,BizzBuzz (21 Apr 2025),VERIFIED
+RGIA passengers,Airport,30.48,million,FY2026,SkyHYD / Hyderabad Mail,SNIPPET
+RGIA passengers calendar year,Airport,31,million,CY2025,Telangana Tribune (19 Feb 2026),VERIFIED
+RGIA domestic passengers,Airport,25,million,FY2026,SkyHYD,SNIPPET
+RGIA international passengers,Airport,5.5,million,FY2026,SkyHYD,SNIPPET
+RGIA international growth,Airport,8.2,percent,FY2026,derived from SkyHYD,SNIPPET
+RGIA destinations,Airport,100,destinations,Dec 2025,The Hindu (30 Dec 2025),VERIFIED
+RGIA domestic destinations,Airport,74,destinations,Dec 2025,The Hindu,VERIFIED
+RGIA international destinations,Airport,26,destinations,Dec 2025,The Hindu,VERIFIED
+RGIA passengers FY2008,Airport,6.2,million,FY2008,The Hindu,VERIFIED
+Golconda Fort footfall,Attractions,1527000,visitors,FY2022-23,ASI via The Hindu,VERIFIED
+Golconda Fort footfall,Attractions,1608000,visitors,FY2023-24,ASI via The Hindu,VERIFIED
+Golconda Fort ASI rank,Attractions,6,rank,FY2024,ASI,VERIFIED
+Charminar footfall,Attractions,929000,visitors,FY2022-23,ASI via The Hindu,VERIFIED
+Charminar footfall,Attractions,1290000,visitors,FY2023-24,ASI via The Hindu,VERIFIED
+Charminar ASI rank,Attractions,9,rank,FY2024,ASI,VERIFIED
+Yadagirigutta footfall,Attractions,15.8,million per year,2025,Tea Time Telugu (20 Feb 2026),VERIFIED
+Yadagirigutta daily average,Attractions,40000,devotees per day,2025,Tea Time Telugu,VERIFIED
+Yadagirigutta record month,Attractions,2.006,million,Jun 2025,Tea Time Telugu,VERIFIED
+Yadagirigutta revenue,Attractions,243,crore INR,2025-26,NewsBytes (22 Jul 2026),VERIFIED
+Yadagirigutta revenue 2014,Attractions,61,crore INR,2014,NewsBytes,VERIFIED
+Yadagirigutta daily revenue,Attractions,25-50,lakh INR per day,2026,NewsBytes,VERIFIED
+Yadagirigutta festival revenue,Attractions,100,lakh INR per day,2026,NewsBytes,VERIFIED
+Vemulawada visitors,Attractions,1.875,million,Aug 2025,Tea Time Telugu,VERIFIED
+Basara visitors per month,Attractions,400000,devotees,May+Jun 2025,Tea Time Telugu,VERIFIED
+Nehru Zoo single day record,Attractions,25900,visitors,1 Jan 2026,Deccan Chronicle (1 Feb 2026),VERIFIED
+Salar Jung Museum annual,Attractions,1000000,visitors per year,2026,The Hindu,SNIPPET
+Salar Jung daily peak,Attractions,7000,visitors per day,peak winter 2026,Deccan Chronicle,VERIFIED
+Numaish footfall,Attractions,1.97,million,2025,The Hindu,SNIPPET
+Numaish footfall,Attractions,2.25,million,2026,The Hindu,SNIPPET
+Ramoji Film City annual,Attractions,1.5,million per year,undated approx 2010s,Bharatpedia / Wikipedia,SNIPPET
+Hussain Sagar footfall,Attractions,unknown,,2026,no source found,UNVERIFIED
+Wonderla Hyderabad footfall,Attractions,unknown,,2026,no source found,UNVERIFIED
+Peak tourism season,Seasonality,Nov-mid Feb,,annual,Deccan Chronicle (1 Feb 2026),VERIFIED
+Medical tourism market,Medical tourism,500,crore INR,2026,Medical Buyer (17 Mar 2026),VERIFIED
+Medical tourism market projection,Medical tourism,1500,crore INR,3-4 year projection,Medical Buyer,VERIFIED
+Foreign patients,Medical tourism,75171,patients,2014,Medical Buyer / The Hindu,VERIFIED
+Foreign patients,Medical tourism,155313,patients,2024,Medical Buyer / The Hindu,VERIFIED-CONFLICT
+Medical visitors per month,Medical tourism,1000,visitors per month,2025,Hotelivate (21 Apr 2025),VERIFIED
+Airport touting cases,Transport,446,cases,2024,Deccan Chronicle (9 Jan 2025),VERIFIED
+Anti-touting personnel,Transport,31,personnel,2024,Deccan Chronicle,VERIFIED
+Unauthorised cab fare,Transport,800,INR per head,2024,Deccan Chronicle,VERIFIED
+Extra demand at drop-off,Transport,400,INR,2024,Deccan Chronicle,VERIFIED
+MakeMyTrip OTA share,OTA market,53.8,percent,FY2023,VIDEC Consultants (2024),VERIFIED
+MakeMyTrip airline share,OTA market,56.9,percent,FY2023,VIDEC Consultants,VERIFIED
+Cleartrip OTA share,OTA market,8.5,percent,FY2023,VIDEC Consultants,VERIFIED
+EaseMyTrip OTA share,OTA market,8.1,percent,FY2023,VIDEC Consultants,VERIFIED
+ixigo rail share,OTA market,47.7,percent,FY2023,VIDEC Consultants,VERIFIED
+India OTA market size,OTA market,1519,billion INR,FY2023,VIDEC Consultants,VERIFIED
+India OTA market size projection,OTA market,2491,billion INR,FY2026 projection,VIDEC Consultants,VERIFIED
+India OTA CAGR,OTA market,17.9,percent,FY2023-26,VIDEC Consultants,VERIFIED
+Hotel capacity shortage,Hotel market,notable shortage,,2025,Hotelivate (21 Apr 2025),VERIFIED
+Hyderabad RevPAR growth Q2 2024,Hotel market,11.9,percent,Q2 2024,JLL via Hospitality Biz India,SNIPPET
+Hyderabad RevPAR growth,Hotel market,23,percent,2025,JLL,SNIPPET
+Novotel HICC rooms,MICE,287,rooms,2026,hicc.com,SNIPPET
+Demand vs organised stock gap,PG market,95,percent unorganised,2025,derived from Colliers,VERIFIED

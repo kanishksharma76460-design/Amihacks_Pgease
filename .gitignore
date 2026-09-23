@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX build artifacts
+docs/*.aux
+docs/*.bbl
+docs/*.blg
+docs/*.log
+docs/*.nav
+docs/*.out
+docs/*.snm
+docs/*.toc
+docs/*.synctex.gz
+
+# Editor
+.vscode/
+.idea/
